@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Aplicações Web`
+`DISCIPLINA: Projeto - Aplicações para Sustentabilidade`
 
-`SEMESTRE: 1º`
+`SEMESTRE: 4º`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
