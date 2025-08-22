@@ -1,29 +1,34 @@
 cff-version: 1.0.1
-message: Please cite this software using these metadata.
-title:
+message: BI para Gestão e Impacto Social em Defesa Animal - Parceria com a ONG Bicho Loko.
+title: ONG Bicho Loko
 authors:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - family-names:
-    given-names:
-  - name-suffix: Professor XXXX
+  - family-names: Magalhães Silva
+    given-names: Amanda
+  - family-names: Carolina Fernandes de Assis
+    given-names: Ana
+  - family-names: Torres da Rocha Castro
+    given-names: Gustavo
+  - family-names: Pedro Silva de Oliveira
+    given-names: João
+  - family-names: Alexandre Santos Barbosa
+    given-names: Jose
+  - family-names: Ellen Jodas Ferreira
+    given-names: Milleny
+  - family-names: Aparecida Campos de Oliveira Pertence
+    given-names: Viviane
+  - name-suffix: Professor
     affiliation: PUC Minas
-    family-names:
-    given-names:
+    family-names: Ines Lage de Paula
+    given-names: Maria
 keywords:
-  -
-  -
-repository-code:
+  - ONG
+  - Animais
+  - Defesa Animal
+  - Impacto Social
+  - Sustentabilidade
+  - BI
+  - Extensão Universitária
+repository-code: https://github.com/orgs/ICEI-PUC-Minas-PMV-SI/teams/bicho_loko
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2023-06-30
+date-released: 2025-08-22
