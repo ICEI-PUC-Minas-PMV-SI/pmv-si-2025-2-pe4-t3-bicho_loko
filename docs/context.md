@@ -6,7 +6,7 @@ Fundada em 2015, a ONG atua no resgate, acolhimento temporário, promoção de a
 
 Com isso, será possível gerar relatórios e indicadores em tempo real, facilitando o acesso rápido às informações e proporcionando maior eficiência na gestão. A relevância do projeto está na contribuição direta para o fortalecimento da ONG e, indiretamente, para o bem-estar animal e para a comunidade local, uma vez que o controle populacional, a redução do abandono e a conscientização social são fatores fundamentais para a melhoria da qualidade de vida coletiva. Assim, a iniciativa beneficia tanto a comunidade acadêmica, que vivenciará a prática de desenvolvimento tecnológico aplicado a um problema real, quanto a comunidade externa, que terá à disposição uma ferramenta de apoio essencial à sustentabilidade de suas ações.
 
-## Problema
+## Diagnóstico da Situação Problema
 
 A ONG Bicho Loko, fundada em 2015, nasceu do esforço coletivo de protetores independentes que buscavam estruturar suas ações em defesa dos animais. Seu trabalho tem como eixos principais a castração, a adoção responsável e a conscientização social. Entretanto, a instituição enfrenta grandes dificuldades em gerir suas atividades, em especial pela ausência de ferramentas digitais de organização e centralização de dados.
 
