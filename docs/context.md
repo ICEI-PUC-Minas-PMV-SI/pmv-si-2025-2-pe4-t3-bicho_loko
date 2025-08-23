@@ -1,54 +1,44 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+O projeto de extensão desenvolvido pelo curso de Sistemas de Informação – EAD da PUC Minas, em parceria com a ONG Bicho Loko, tem como objetivo a criação de um sistema de Business Intelligence (BI) voltado à organização, análise e integração de informações essenciais para a gestão da instituição.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+Fundada em 2015, a ONG atua no resgate, acolhimento temporário, promoção de adoções responsáveis, campanhas de castração e ações de conscientização da sociedade. Apesar de seu impacto significativo, enfrenta grandes dificuldades relacionadas à falta de centralização de dados, o que prejudica a agilidade na tomada de decisões e no estabelecimento de parcerias estratégicas. O BI permitirá consolidar informações sobre animais resgatados, voluntários, adotantes, eventos de adoção, parcerias e campanhas.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Com isso, será possível gerar relatórios e indicadores em tempo real, facilitando o acesso rápido às informações e proporcionando maior eficiência na gestão. A relevância do projeto está na contribuição direta para o fortalecimento da ONG e, indiretamente, para o bem-estar animal e para a comunidade local, uma vez que o controle populacional, a redução do abandono e a conscientização social são fatores fundamentais para a melhoria da qualidade de vida coletiva. Assim, a iniciativa beneficia tanto a comunidade acadêmica, que vivenciará a prática de desenvolvimento tecnológico aplicado a um problema real, quanto a comunidade externa, que terá à disposição uma ferramenta de apoio essencial à sustentabilidade de suas ações.
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, **não** é a hora de comentar sobre a solução/aplicação.
+A ONG Bicho Loko, fundada em 2015, nasceu do esforço coletivo de protetores independentes que buscavam estruturar suas ações em defesa dos animais. Seu trabalho tem como eixos principais a castração, a adoção responsável e a conscientização social. Entretanto, a instituição enfrenta grandes dificuldades em gerir suas atividades, em especial pela ausência de ferramentas digitais de organização e centralização de dados.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
+Atualmente, os registros de animais, adotantes, voluntários e termos de responsabilidade são realizados de forma manual e física, dificultando a recuperação rápida das informações e atrasando processos decisivos. Essa lacuna gera entraves tanto no relacionamento com parceiros quanto no planejamento de eventos e campanhas.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Além disso, o abandono de animais em Belo Horizonte e região metropolitana é um problema crescente: segundo a Organização Mundial da Saúde (OMS), estima-se que no Brasil existam mais de 30 milhões de animais em situação de abandono, sendo aproximadamente 10 milhões de gatos e 20 milhões de cães. Em grandes capitais, como Belo Horizonte, estudos locais indicam que milhares de cães e gatos vivem em situação de rua, agravando problemas de saúde pública e maus-tratos. A ausência de dados organizados pela ONG compromete o mapeamento do impacto real de suas ações, limitando o alcance de novas parcerias e investimentos.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Desenvolver um sistema de Business Intelligence (BI) para a ONG Bicho Loko, com vistas a centralizar e analisar informações essenciais para a gestão de suas atividades, promovendo maior eficiência organizacional e impacto social.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- Mapear e estruturar as informações atualmente utilizadas pela ONG: animais, adotantes, voluntários, parcerias e eventos;
+- Desenvolver um banco de dados centralizado para armazenar as informações coletadas;
+- Criar painéis interativos de BI para visualização e análise de dados em tempo real;
+- Fornecer indicadores estratégicos que apoiem a tomada de decisão da ONG;
+- Contribuir para a capacitação da ONG no uso de tecnologias de informação para gestão;
+- Fortalecer o vínculo entre a universidade e a comunidade por meio de um projeto extensionista de impacto social.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A relevância social e acadêmica do projeto está alicerçada em dois eixos principais: o fortalecimento da ONG Bicho Loko e a formação cidadã dos estudantes do curso de Sistemas de Informação.
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
+Para a comunidade externa, o projeto contribui para a organização de dados que permitirão maior eficiência nas campanhas de castração, nos processos de adoção e na captação de parcerias. Para a comunidade acadêmica, representa a aplicação prática do conhecimento adquirido em disciplinas de tecnologia da informação, análise de dados e gestão de sistemas, fortalecendo a interdisciplinaridade entre teoria e prática. Além disso, o projeto está em consonância com a Política de Extensão Universitária da PUC Minas (2006) e com o Plano de Desenvolvimento Institucional (2012), que enfatizam a indissociabilidade entre ensino, pesquisa e extensão, bem como o compromisso social da universidade.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O BI a ser desenvolvido terá caráter inovador por articular dados antes dispersos em um sistema de análise e visualização dinâmica, servindo também como objeto de pesquisa futura para estudantes interessados em gestão de dados aplicada ao terceiro setor.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Caracterização do público-alvo: O projeto atenderá diretamente a ONG Bicho Loko, seus voluntários (fixos e pontuais) e protetores independentes que atuam em parceria. Indiretamente, beneficiará a comunidade de Belo Horizonte e região metropolitana, especialmente famílias adotantes e a população impactada pelas campanhas de castração e conscientização.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Critérios para seleção/inclusão do público-alvo: Serão considerados como público-alvo os grupos que participam diretamente das atividades da ONG e aqueles que são beneficiados pelas ações realizadas, como adotantes e protetores independentes.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Número de pessoas atendidas (beneficiários diretos): Cerca de 30 voluntários fixos e pontuais, além de aproximadamente 200 adotantes por ano.
+
+Número de pessoas atendidas (beneficiários indiretos): Estima-se que mais de 2.000 pessoas sejam impactadas anualmente pelas campanhas de conscientização e castração promovidas pela ONG.
