@@ -16,7 +16,9 @@ Além disso, o abandono de animais em Belo Horizonte e região metropolitana é 
 
 ## Objetivos
 
-Desenvolver um sistema de Business Intelligence (BI) para a ONG Bicho Loko, com vistas a centralizar e analisar informações essenciais para a gestão de suas atividades, promovendo maior eficiência organizacional e impacto social.
+O presente trabalho tem como objetivos geral desenvolver um sistema de Business Intelligence (BI) para a ONG Bicho Loko, com vistas a centralizar e analisar informações essenciais para a gestão de suas atividades, promovendo maior eficiência organizacional e impacto social.
+
+Para o alcance deste objetivo, foram estabelecidos os seguintes objetivos específicos:
 
 - Mapear e estruturar as informações atualmente utilizadas pela ONG: animais, adotantes, voluntários, parcerias e eventos;
 - Desenvolver um banco de dados centralizado para armazenar as informações coletadas;
