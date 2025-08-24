@@ -1,4 +1,4 @@
-# Introdução
+# Resumo
 
 O projeto de extensão desenvolvido pelo curso de Sistemas de Informação – EAD da PUC Minas, em parceria com a ONG Bicho Loko, tem como objetivo a criação de um sistema de Business Intelligence (BI) voltado à organização, análise e integração de informações essenciais para a gestão da instituição.
 
