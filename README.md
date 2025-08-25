@@ -20,7 +20,7 @@ BI para Gestão e Impacto Social em Defesa Animal: Parceria com a ONG Bicho Loko
 
 ## Orientador
 
-- Maria Ines Lage de Paula
+- Maria Inês Lage de Paula
 
 # Planejamento
 
