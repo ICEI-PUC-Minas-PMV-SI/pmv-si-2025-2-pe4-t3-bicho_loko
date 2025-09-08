@@ -13,3 +13,5 @@ Exemplos de referências bibliográficas:
 **[4]** - INSTITUTO PET BRASIL. Pesquisa Nacional de Abandono e Adoção. São Paulo: Instituto Pet Brasil, 2022.
 
 **[5]** - ONG Bicho Loko. Entrevista e dados institucionais concedidos em 2025.
+
+**[6]** - O TEMPO. Belo Horizonte tem população de 48 mil animais de rua. O tempo, Belo Horizonte, 17 de maio de 2023. Disponível em: https://www.otempo.com.br/cidades/belo-horizonte-tem-populacao-de-48-mil-animais-de-rua-1.2857246. Acesso em: 7 set. 2025.
