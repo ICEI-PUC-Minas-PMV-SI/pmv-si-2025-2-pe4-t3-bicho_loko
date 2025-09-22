@@ -44,25 +44,26 @@ Número de beneficiários indiretos: Estima-se que mais de 2.000 pessoas sejam i
 | ID | Seção | Descrição do Requisito | Prioridade |
 | :---: | :---: | ----- | :---: |
 | RF-01 | Gerenciamentos | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de animais. | Obrigatório  |
-| RF-02 |  | O sistema deve permitir cadastrar, editar, visualizar, e inativar registros de adotantes. | Obrigatório |
-| RF-03 |  | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de doadores.  | Obrigatório |
-| RF-04 |  | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de parceiros. | Obrigatório |
-| RF-05 |  | O sistema deve permitir cadastrar, editar, consultar e inativar registros de voluntários. | Obrigatório |
-| RF-06 |  | O sistema deve permitir cadastrar, editar, consultar e inativar registros de interessados em adoção. | Obrigatório |
-| RF-07 | Processos e Operações  | O sistema deve permitir registrar, consultar e atualizar informações de saúde dos animais. | Obrigatório |
-| RF-08 |  |  O sistema deve permitir registrar, consultar e atualizar processos de adoção. | Obrigatório |
-| RF-09 |  | O sistema deve permitir registrar, consultar e atualizar doações (financeiras e em itens). | Obrigatório |
-| RF-010 |  | O sistema deve permitir registrar, consultar e atualizar despesas. | Obrigatório |
-| RF-011 |  | O sistema deve permitir registrar, editar, consultar e inativar campanhas (eventos/ações). | Obrigatório |
+| RF-02 | Gerenciamentos | O sistema deve permitir cadastrar, editar, visualizar, e inativar registros de adotantes. | Obrigatório |
+| RF-03 | Gerenciamentos | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de doadores.  | Obrigatório |
+| RF-04 | Gerenciamentos | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de parceiros. | Obrigatório |
+| RF-05 | Gerenciamentos | O sistema deve permitir cadastrar, editar, consultar e inativar registros de voluntários. | Obrigatório |
+| RF-06 | Gerenciamentos | O sistema deve permitir cadastrar, editar, consultar e inativar registros de interessados em adoção. | Obrigatório |
+| RF-07 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar informações de saúde dos animais. | Obrigatório |
+| RF-08 | Processos e Operações |  O sistema deve permitir registrar, consultar e atualizar processos de adoção. | Obrigatório |
+| RF-09 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar doações (financeiras e em itens). | Obrigatório |
+| RF-010 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar despesas. | Obrigatório |
+| RF-011 | Processos e Operações | O sistema deve permitir registrar, editar, consultar e inativar campanhas (eventos/ações). | Obrigatório |
 | RF-012 | Regras específicas de processo | O sistema deve permitir associar um processo de adoção a um adotante e a um animal. | Obrigatório |
-| RF-013 |  | O sistema deve permitir anexar arquivos digitais a registros do sistema, quando aplicável | Obrigatório |
-| RF-014 |  | O sistema deve, ao identificar um interessado com status aprovado, criar automaticamente um registro correspondente em Adotantes. | Desejável  |
-| RF-015 |  |  O sistema deve registrar no interessado convertido o identificador do adotante criado. | Obrigatório |
-| RF-016 |  | O sistema deve impedir duplicidade na criação de adotantes quando já existir registro com identificadores únicos definidos. | Obrigatório |
+| RF-013 | Regras específicas de processo | O sistema deve permitir anexar arquivos digitais a registros do sistema, quando aplicável | Obrigatório |
+| RF-014 | Regras específicas de processo | O sistema deve, ao identificar um interessado com status aprovado, criar automaticamente um registro correspondente em Adotantes. | Desejável  |
+| RF-015 | Regras específicas de processo |  O sistema deve registrar no interessado convertido o identificador do adotante criado. | Obrigatório |
+| RF-016 | Regras específicas de processo | O sistema deve impedir duplicidade na criação de adotantes quando já existir registro com identificadores únicos definidos. | Obrigatório |
 | RF-017 | Segurança e Administração | O sistema deve permitir ao administrador configurar perfis diferenciados de acesso (edição/visualização) | Obrigatório |
 | RF-018 | Relatórios e Integrações | O sistema deve disponibilizar dashboards com indicadores de desempenho operacional e estratégico. | Obrigatório |
-| RF-019 |  | O sistema deve integrar um formulário online para registro de interessados em adoção. | Desejável  |
-| RF-020 |  | O sistema deve armazenar automaticamente as respostas do formulário em uma aba dedicada da planilha do Google Sheets, para posterior análise | Desejável |
+| RF-019 | Relatórios e Integrações | O sistema deve integrar um formulário online para registro de interessados em adoção. | Desejável  |
+| RF-020 | Relatórios e Integrações | O sistema deve armazenar automaticamente as respostas do formulário em uma aba dedicada da planilha do Google Sheets, para posterior análise | Desejável |
+
 
 **Requisitos Não Funcionais:**
 
