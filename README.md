@@ -26,11 +26,14 @@ BI para Gestão e Impacto Social em Defesa Animal: Parceria com a ONG Bicho Loko
 
 |  Etapa  | Atividades                                                                                          |
 | :-----: | --------------------------------------------------------------------------------------------------- |
-| ETAPA 1 | [Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
-| ETAPA 2 | [Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md)                  |
-| ETAPA 3 | [Programação de Funcionalidades](docs/development.md)                                               |
-| ETAPA 4 | [Programação de Funcionalidades](docs/development.md) <br> [Testes de Software ](docs/tests.md)     |
-| ETAPA 5 | [Apresentação](presentation/README.md)                                                              |
+| ETAPA 1 | Extensão Universitária <br> Participação do Evento de Extensão|
+| ETAPA 2 | [Escopo do projeto e Grupos de trabalho ](context.md) <br> [Template Padrão](docs/template.md)                  |
+| ETAPA 3 | [Diagnóstico da situação problema](docs/development.md)                                               |
+| ETAPA 4 | [Arquitetura e metodologia do projeto](docs/context.md)     |
+| ETAPA 5 | [Portal e BI - Desenvolver a modelagem de dados para o projeto BI](docs/context.md)                                                             |
+| ETAPA 6 | [Portal e BI - Integrar as fontes de dados do projeto ](docs/context.md) |
+| ETAPA 7 | [Portal e BI - Visualizar os resultados do projeto](docs/context.md) |
+| ETAPA 8 | [Apresentação e/ou implantação da solução para a organização](presentation/README.md) |
 
 # Código
 
