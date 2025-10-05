@@ -1,17 +1,12 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvolvimento do trabalho.
+**[1]** - CONSELHO REGIONAL DE MEDICINA VETERINÁRIA DA PARAÍBA. 30 milhões de animais vivem nas ruas; CRMV-PB defende política de controle populacional. João Pessoa: CRMV-PB, 2025. Disponível em: https://www.crmvpb.org.br/30-milhoes-de-animais-vivem-nas-rua-crmv-pb-defende-politica-de-controle-populacional/. Acesso em: 22 ago. 2025.
 
-Exemplos de referências bibliográficas:
+**[2]** - CÂMARA MUNICIPAL DE BELO HORIZONTE. Censo municipal de animais domésticos avança em 1º turno. Belo Horizonte: CMBH, 7 abr. 2025. Disponível em: https://www.cmbh.mg.gov.br/comunica%C3%A7%C3%A3o/not%C3%ADcias/2025/04/censo-municipal-de-animais-dom%C3%A9sticos-avan%C3%A7a-em-1%C2%BA-turno. Acesso em: 15 set. 2025.
 
-**[1]** - BRASIL. Ministério da Educação. Política de Extensão Universitária da PUC Minas. Belo Horizonte: PUC Minas, 2006.
+**[3]** - ONG Bicho Loko. Entrevista e dados institucionais concedidos em 2025.
 
-**[2]** - BRASIL. Ministério da Educação. Plano de Desenvolvimento Institucional da PUC Minas. Belo Horizonte: PUC Minas, 2012.
+**[4]** - PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS (PUC Minas). Pró-Reitoria de Extensão. Política de Extensão Universitária PUC Minas 2025. Belo Horizonte: PUC Minas, 2025. Disponível em: https://proex.pucminas.br/wp-content/uploads/2025/08/Politica-Extensao-PUC-Minas-2025-.pdf. Acesso em: 15 set. 2025.
 
-**[3]** - ORGANIZAÇÃO MUNDIAL DA SAÚDE (OMS). Relatório mundial sobre bem-estar animal. Genebra: OMS, 2023.
+**[5]** - PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS (PUC Minas). Plano de Desenvolvimento Instituicional PDI 2022-2026. Belo Horizonte: PUC Minas, 2025. Disponível em: https://portal.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20140811180151.pdf. Acesso em:15 set. 2025.
 
-**[4]** - INSTITUTO PET BRASIL. Pesquisa Nacional de Abandono e Adoção. São Paulo: Instituto Pet Brasil, 2022.
-
-**[5]** - ONG Bicho Loko. Entrevista e dados institucionais concedidos em 2025.
-
-**[6]** - O TEMPO. Belo Horizonte tem população de 48 mil animais de rua. O tempo, Belo Horizonte, 17 de maio de 2023. Disponível em: https://www.otempo.com.br/cidades/belo-horizonte-tem-populacao-de-48-mil-animais-de-rua-1.2857246. Acesso em: 7 set. 2025.
