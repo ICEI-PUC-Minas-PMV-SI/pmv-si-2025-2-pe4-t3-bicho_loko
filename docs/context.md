@@ -30,15 +30,15 @@ Desenvolver um painel de Business Intelligence (BI) para a ONG Bicho Loko, com v
 ## 5. **OBJETIVOS ESPECÍFICOS**
 
 * Mapear e estruturar as informações atualmente utilizadas pela ONG: animais, adotantes, voluntários, parcerias e eventos;
-*  
+  
 * Desenvolver um banco de dados centralizado para armazenar as informações coletadas;
-* 
+  
 * Criar painéis interativos de BI para visualização e análise de dados em tempo real;
-* 
+  
 * Fornecer indicadores estratégicos que apoiem a tomada de decisão da ONG;
-* 
+  
 * Contribuir para a capacitação da ONG no uso de tecnologias de informação para gestão;
-* 
+  
 * Fortalecer o vínculo entre a universidade e a comunidade por meio de um projeto extensionista de impacto social.
 
 ## 6. **PÚBLICO DO PROJETO**
