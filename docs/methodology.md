@@ -18,8 +18,6 @@ As principais atividades metodológicas incluem:
 
 Essa abordagem permite uma implementação rápida, de baixo custo e com curva de aprendizado acessível, sem comprometer a qualidade do sistema de apoio à gestão da ONG.
 
-##
-
 ## **ARQUITETURA**
 
 Este item descreve a arquitetura de software projetada para a Organização Não Governamental (ONG) Bicho Loko, desenvolvida exclusivamente com o uso das ferramentas Google AppSheet, Google AppScript e Google Sites. A solução foi concebida para operação em ambiente de nuvem, com baixo custo de implantação, facilidade de manutenção e aderência estrita aos requisitos funcionais e não funcionais estabelecidos pelo projeto.
@@ -96,7 +94,7 @@ Todas as funcionalidades implementadas corresponderão estritamente aos requisit
 
 A arquitetura foi concebida para priorizar a autonomia operacional da ONG, o baixo custo de implantação, bem como a facilidade de manutenção e evolução.
 
-![][image1]
+![Arquitetura do projeto](./img/Arquitetura.png)
 
 **Figura 1 – Arquitetura proposta do sistema da ONG Bicho Loko**
 
