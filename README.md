@@ -35,6 +35,10 @@ BI para Gestão e Impacto Social em Defesa Animal: Parceria com a ONG Bicho Loko
 | ETAPA 7 | [Portal e BI - Visualizar os resultados do projeto](docs/visualization.md)              |
 | ETAPA 8 | [Apresentação e/ou implantação da solução para a organização](presentation/README.md)   |
 
+# Referências
+
+<li><a href="docs/references.md"> Referências</a></li>
+
 # Código
 
 <li><a href="src/README.md"> Código Fonte</a></li>
