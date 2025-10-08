@@ -56,7 +56,7 @@ Este item descreve a arquitetura de software projetada para a Organização Não
 
    **AppSheets Database**
 
-   - Estrutura de dados organizada por entidades: Animais, Adotantes, Interessados, Voluntários, Campanhas, Parcerias, Despesas e Doações;
+   - Estrutura de dados organizada por entidades: Usuários, Animais, Adotantes, Voluntários, Campanhas, Parceiros, Adoções, Despesas, Atendimentos Clínicos, Resgates, Pós-adoções, Doadores, Candidatos, Hospedagens e Doações;
 
    - Formas de alimentação dos dados:
 
