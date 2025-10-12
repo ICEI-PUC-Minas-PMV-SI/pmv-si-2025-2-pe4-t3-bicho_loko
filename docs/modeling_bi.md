@@ -43,6 +43,14 @@
 |         <img src="./img/atendimentos_clinicos/atendimento_desktop_1.png" alt="Home Desktop" style="height: 270px;">         |      <img src="./img/atendimentos_clinicos/atendimento_mobile_1.png" alt="Home Mobile" style="height: 270px;">      |                                                                                                                                                                                          
 | <img src="./img/atendimentos_clinicos/atendimento_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |  
 
+### Parceiros
+
+|                                                Desktop                                                 |                                             Mobile                                             |                                                                                                |                                                                                                |
+| :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+|         <img src="./img/parceiros/parceiros_desktop_1.png" alt="Home Desktop" style="height: 270px;">         |      <img src="./img/parceiros/parceiros_mobile_1.png" alt="Home Mobile" style="height: 270px;">      |                                                                                                                                                                                          
+| <img src="./img/parceiros/parceiros_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |  
+
+
 ## Plano de Trabalho
 
 O Plano de Trabalho está organizado no GitHub Projects. Você pode acessá-lo e acompanhar o andamento [clicando aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-SI/projects/351/views/1):
