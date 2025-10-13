@@ -53,6 +53,6 @@
 
 ## Plano de Trabalho
 
-O Plano de Trabalho está organizado no GitHub Projects. Você pode acessá-lo e acompanhar o andamento [clicando aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-SI/projects/351/views/1):
+O Plano de Trabalho está organizado no GitHub Projects. Você pode acessá-lo e acompanhar o andamento [clicando aqui](https://github.com/orgs/ICEI-PUC-Minas-PMV-SI/projects/351/views/1). Cada integrante da equipe ficou responsável tanto pelo desenvolvimento do respectivo CRUD quanto pela elaboração do protótipo correspondente, conforme solicitado no escopo do projeto.
 
 ![Plano de Trabalho - Etapa 5](./img/plano_trabalho/etapa_5.png)
