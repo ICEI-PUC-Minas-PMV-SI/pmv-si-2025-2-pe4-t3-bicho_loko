@@ -15,7 +15,7 @@ O presente projeto está diretamente vinculado ao **ODS 15 – Vida Terrestre**,
 
 De forma indireta, também se observa a relação com o **ODS 11 – Cidades e Comunidades Sustentáveis**, uma vez que o controle populacional de animais em situação de rua impacta positivamente a qualidade de vida urbana, reduz riscos sanitários e favorece uma convivência harmoniosa entre seres humanos e animais nos espaços urbanos.
 
-Além disso, há correspondência com o ** 3 – Saúde e Bem-Estar**, considerando que a atuação da instituição contribui indiretamente para o controle de zoonoses e para a promoção da saúde pública. O acolhimento e a destinação responsável de animais em situação de abandono reduzem potenciais riscos epidemiológicos e fortalecem a proteção do bem-estar coletivo, abrangendo tanto a população humana quanto os próprios animais.
+Além disso, há correspondência com o **ODS 3 – Saúde e Bem-Estar**, considerando que a atuação da instituição contribui indiretamente para o controle de zoonoses e para a promoção da saúde pública. O acolhimento e a destinação responsável de animais em situação de abandono reduzem potenciais riscos epidemiológicos e fortalecem a proteção do bem-estar coletivo, abrangendo tanto a população humana quanto os próprios animais.
 
 Assim, a proposta evidencia um alinhamento transversal a diferentes Objetivos de Desenvolvimento Sustentável, reforçando o papel da extensão universitária como instrumento de transformação social e promoção do bem-estar socioambiental.
 
