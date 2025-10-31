@@ -9,13 +9,13 @@ A ONG Bicho Loko, fundada em 2015, nasceu do esforço coletivo de protetores ind
 
 Atualmente, os registros de animais, adotantes, voluntários e termos de responsabilidade são realizados de forma manual e física, dificultando a recuperação rápida das informações e atrasando processos decisivos [3].  Com a organização dessas informações de maneira estruturada, será possível gerar indicadores e relatórios que evidenciem as ações realizadas pela ONG e os resultados alcançados. Esses dados serão fundamentais para apresentar de forma transparente o trabalho desenvolvido, contribuindo para sensibilizar e atrair novos parceiros, voluntários e investidores.
 
-## **RELAÇÃO DO PROJETO COM AS ODS**
+## **RELAÇÃO DO PROJETO COM OS ODS**
 
 O presente projeto está diretamente vinculado ao **ODS 15 – Vida Terrestre**, que busca proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres, combater a desertificação, deter e reverter a degradação da terra e frear a perda da biodiversidade. Ao proporcionar maior visibilidade ao trabalho da ONG Bicho Loko e estruturar sua gestão de dados por meio de planilhas organizadas, formulários digitais e dashboards interativos, a iniciativa contribui para a redução do abandono de animais domésticos, fomenta adoções responsáveis e fortalece parcerias com clínicas veterinárias e apoiadores.
 
 De forma indireta, também se observa a relação com o **ODS 11 – Cidades e Comunidades Sustentáveis**, uma vez que o controle populacional de animais em situação de rua impacta positivamente a qualidade de vida urbana, reduz riscos sanitários e favorece uma convivência harmoniosa entre seres humanos e animais nos espaços urbanos.
 
-Além disso, há correspondência com o **ODS 3 – Saúde e Bem-Estar**, considerando que a atuação da instituição contribui indiretamente para o controle de zoonoses e para a promoção da saúde pública. O acolhimento e a destinação responsável de animais em situação de abandono reduzem potenciais riscos epidemiológicos e fortalecem a proteção do bem-estar coletivo, abrangendo tanto a população humana quanto os próprios animais.
+Além disso, há correspondência com o ** 3 – Saúde e Bem-Estar**, considerando que a atuação da instituição contribui indiretamente para o controle de zoonoses e para a promoção da saúde pública. O acolhimento e a destinação responsável de animais em situação de abandono reduzem potenciais riscos epidemiológicos e fortalecem a proteção do bem-estar coletivo, abrangendo tanto a população humana quanto os próprios animais.
 
 Assim, a proposta evidencia um alinhamento transversal a diferentes Objetivos de Desenvolvimento Sustentável, reforçando o papel da extensão universitária como instrumento de transformação social e promoção do bem-estar socioambiental.
 
