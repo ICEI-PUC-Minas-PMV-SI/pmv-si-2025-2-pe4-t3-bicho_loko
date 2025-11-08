@@ -37,8 +37,12 @@ No futuro, colaboradores capacitados da ONG poderão realizar transformações m
 
 #### Carga
 
-Os dados tratados são integrados ao Looker Studio, ferramenta escolhida para atuar como ambiente analítico (data warehouse).
-A conexão é direta com o banco SQL do AppSheet, permitindo atualização automática dos painéis e relatórios sempre que novos registros são inseridos, sem necessidade de exportações manuais.
+Os dados tratados são integrados ao Looker Studio, ferramenta escolhida para atuar como camada de visualização e análise.
+Devido à simplicidade e aos recursos limitados da ONG, o próprio banco SQL do AppSheet tem sido utilizado como Data Warehouse prático e de baixo custo, concentrando as informações já estruturadas e padronizadas.
+Essa abordagem reduz a necessidade de infraestrutura adicional e garante atualização automática dos relatórios.
+
+O Looker Studio se conecta diretamente a esse banco SQL, permitindo que os painéis sejam atualizados em tempo real sempre que novos registros são inseridos, sem necessidade de exportações manuais.
+Com isso, o ambiente mantém-se leve, integrado e sustentável dentro da realidade operacional da ONG.
 
 ### Ferramenta ETL
 
