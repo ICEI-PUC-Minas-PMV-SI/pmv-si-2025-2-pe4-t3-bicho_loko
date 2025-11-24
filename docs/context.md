@@ -83,20 +83,22 @@ Assim, a proposta evidencia um alinhamento transversal a diferentes Objetivos de
 | RF-04 | Gerenciamentos | O sistema deve permitir cadastrar, editar, visualizar e inativar registros de parceiros. | Obrigatório |
 | RF-05 | Gerenciamentos | O sistema deve permitir cadastrar, editar, consultar e inativar registros de voluntários. | Obrigatório |
 | RF-06 | Gerenciamentos | O sistema deve permitir cadastrar, editar, consultar e inativar registros de interessados em adoção. | Obrigatório |
-| RF-07 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar informações de saúde dos animais. | Obrigatório |
-| RF-08 | Processos e Operações |  O sistema deve permitir registrar, consultar e atualizar processos de adoção. | Obrigatório |
-| RF-09 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar doações (financeiras e em itens). | Obrigatório |
-| RF-010 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar despesas. | Obrigatório |
-| RF-011 | Processos e Operações | O sistema deve permitir registrar, editar, consultar e inativar campanhas (eventos/ações). | Obrigatório |
-| RF-012 | Regras específicas de processo | O sistema deve permitir associar um processo de adoção a um adotante e a um animal. | Obrigatório |
-| RF-013 | Regras específicas de processo | O sistema deve permitir anexar arquivos digitais a registros do sistema, quando aplicável | Obrigatório |
-| RF-014 | Regras específicas de processo | O sistema deve, ao identificar um interessado com status aprovado, criar automaticamente um registro correspondente em Adotantes. | Desejável  |
-| RF-015 | Regras específicas de processo |  O sistema deve registrar no interessado convertido o identificador do adotante criado. | Obrigatório |
-| RF-016 | Regras específicas de processo | O sistema deve impedir duplicidade na criação de adotantes quando já existir registro com identificadores únicos definidos. | Obrigatório |
-| RF-017 | Segurança e Administração | O sistema deve permitir ao administrador configurar perfis diferenciados de acesso (edição/visualização) | Obrigatório |
-| RF-018 | Relatórios e Integrações | O sistema deve disponibilizar dashboards com indicadores de desempenho operacional e estratégico. | Obrigatório |
-| RF-019 | Relatórios e Integrações | O sistema deve integrar um formulário online para registro de interessados em adoção. | Desejável  |
-| RF-020 | Relatórios e Integrações | O sistema deve armazenar automaticamente as respostas do formulário em uma aba dedicada da planilha do Google Sheets, para posterior análise | Desejável |
+| RF-07 | Processos e Operações | O sistema deve permitir associar voluntários a campanhas e atendimentos. | Obrigatório |
+| RF-08 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar informações de saúde dos animais. | Obrigatório |
+| RF-09 | Processos e Operações |  O sistema deve permitir registrar, consultar e atualizar processos de adoção. | Obrigatório |
+| RF-010 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar doações (financeiras e em itens). | Obrigatório |
+| RF-011 | Processos e Operações | O sistema deve permitir registrar, consultar e atualizar despesas. | Obrigatório |
+| RF-012 | Processos e Operações | O sistema deve permitir registrar, editar, consultar e inativar campanhas (eventos/ações). | Obrigatório |
+| RF-013 | Regras específicas de processo | O sistema deve permitir associar um processo de adoção a um adotante e a um animal. | Obrigatório |
+| RF-014 | Regras específicas de processo | O sistema deve permitir anexar arquivos digitais a registros do sistema, quando aplicável | Obrigatório |
+| RF-015 | Regras específicas de processo | O sistema deve, ao identificar um interessado com status aprovado, criar automaticamente um registro correspondente em Adotantes. | Desejável  |
+| RF-016 | Regras específicas de processo |  O sistema deve registrar no interessado convertido o identificador do adotante criado. | Obrigatório |
+| RF-017 | Regras específicas de processo | O sistema deve impedir duplicidade na criação de adotantes quando já existir registro com os identificadores únicos CPF. | Obrigatório |
+| RF-018 | Segurança e Administração | O sistema deve permitir ao administrador configurar perfis diferenciados de acesso (edição/visualização) | Obrigatório |
+| RF-019 | Relatórios e Integrações | O sistema deve disponibilizar dashboards com indicadores de desempenho operacional e estratégico. | Obrigatório |
+| RF-020 | Relatórios e Integrações | O sistema deve integrar um formulário online para registro de interessados em adoção. | Desejável  |
+| RF-021 | Relatórios e Integrações | O sistema deve armazenar automaticamente as respostas do formulário em uma aba dedicada da planilha do Google Sheets, para posterior análise | Desejável |
+| RF-022 | Relatórios e Integrações | O sistema deve permitir realizar análises por hierarquia temporal nos dashboards e relatórios, possibilitando a visualização e o detalhamento dos dados conforme o período selecionado. | Obrigatório |
 
 
 **Requisitos Não Funcionais:**
@@ -107,5 +109,8 @@ Assim, a proposta evidencia um alinhamento transversal a diferentes Objetivos de
 | RNF-002 | A solução deve ser implementada usando apenas ferramentas gratuitas. | Obrigatório |
 | RNF-003 | A planilha deve ser configurada com diferentes perfis de acesso, permitindo edição e visualização. | Obrigatório |
 | RNF-004 | A planilha deve ter um procedimento de backup mensal automático. | Obrigatório |
-
-
+| RNF-005 | A solução deve apresentar desempenho adequado, permitindo abrir e atualizar as planilhas e dashboards em até 5 segundos em cenários de uso normal. | Obrigatório |
+| RNF-006 | A solução deve estar disponível para acesso pelos voluntários na maior parte do tempo útil, admitindo indisponibilidades apenas por manutenção ou falhas dos provedores de serviço. | Obrigatório |
+| RNF-007 | A solução deve suportar o volume de dados necessário (registros de animais, adotantes, doadores, interessados, processos de adoção e doações, etc) sem degradação significativa de desempenho. | Obrigatório |
+| RNF-008 | A solução deve garantir a segurança dos dados, utilizando contas protegidas por senha e controle de acesso aos arquivos. | Obrigatório |
+| RNF-009 | A solução deve permitir rastrear alterações relevantes nas planilhas, por meio de campos de controle (datas e responsáveis pela criação e última atualização). | Obrigatório |
