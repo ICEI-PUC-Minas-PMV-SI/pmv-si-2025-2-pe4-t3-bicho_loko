@@ -2,7 +2,7 @@
 
 ## Modelagem de Dados
 
-![Modelagem de Dados](./img/modelagem.png)
+![Modelagem de Dados](./img/modelagem-ong.png)
 
 ## Modelagem Multidimensional de Dados
 
@@ -36,20 +36,20 @@
 | <img src="./img/despesas/cadastro_desktop.png" alt="Cadastro Desktop" style="height: 270px;"> | <img src="./img/despesas/cadastro_1_mobile.png" alt="Cadastro Mobile" style="height: 270px;"> | <img src="./img/despesas/cadastro_2_mobile.png" alt="Cadastro Mobile" style="height: 270px;"> | <img src="./img/despesas/cadastro_3_mobile.png" alt="Cadastro Mobile" style="height: 270px;"> |
 | <img src="./img/despesas/detalhes_desktop.png" alt="Detalhes Desktop" style="height: 270px;"> |  <img src="./img/despesas/detalhes_mobile.png" alt="Detalhes Mobile" style="height: 270px;">  | <img src="./img/despesas/detalhes_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> |                                                                                               |
 |   <img src="./img/despesas/edicao_desktop.png" alt="Edição Desktop" style="height: 270px;">   |   <img src="./img/despesas/edicao_mobile.png" alt="Edição Mobile" style="height: 270px;">     |                                                                                               |                                                                                               |
+
 ### Atendimentos Clínicos
 
-|                                                Desktop                                                 |                                             Mobile                                             |                                                                                                |                                                                                                |
-| :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-|         <img src="./img/atendimentos_clinicos/atendimento_desktop_1.png" alt="Home Desktop" style="height: 270px;">         |      <img src="./img/atendimentos_clinicos/atendimento_mobile_1.png" alt="Home Mobile" style="height: 270px;">      |                                                                                                                                                                                          
-| <img src="./img/atendimentos_clinicos/atendimento_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |  
+|                                                     Desktop                                                     |                                                    Mobile                                                     |                                                                                                               |     |
+| :-------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-: |
+|   <img src="./img/atendimentos_clinicos/atendimento_desktop_1.png" alt="Home Desktop" style="height: 270px;">   |   <img src="./img/atendimentos_clinicos/atendimento_mobile_1.png" alt="Home Mobile" style="height: 270px;">   |
+| <img src="./img/atendimentos_clinicos/atendimento_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/atendimentos_clinicos/atendimento_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |
 
 ### Parceiros
 
-|                                                Desktop                                                 |                                             Mobile                                             |                                                                                                |                                                                                                |
-| :----------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
-|         <img src="./img/parceiros/parceiros_desktop_1.png" alt="Home Desktop" style="height: 270px;">         |      <img src="./img/parceiros/parceiros_mobile_1.png" alt="Home Mobile" style="height: 270px;">      |                                                                                                                                                                                          
-| <img src="./img/parceiros/parceiros_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |  
-
+|                                              Desktop                                              |                                             Mobile                                              |                                                                                                 |     |
+| :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :-: |
+|   <img src="./img/parceiros/parceiros_desktop_1.png" alt="Home Desktop" style="height: 270px;">   |   <img src="./img/parceiros/parceiros_mobile_1.png" alt="Home Mobile" style="height: 270px;">   |
+| <img src="./img/parceiros/parceiros_desktop_2.png" alt="Detalhes Desktop" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_2.png" alt="Detalhes Mobile" style="height: 270px;"> | <img src="./img/parceiros/parceiros_mobile_3.png" alt="Detalhes Mobile" style="height: 270px;"> |
 
 ## Plano de Trabalho
 
