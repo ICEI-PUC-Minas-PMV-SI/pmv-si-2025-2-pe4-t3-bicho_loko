@@ -96,7 +96,7 @@ A arquitetura foi concebida para priorizar a autonomia operacional da ONG, o bai
 
 A Figura 1 apresenta o diagrama esquemático da arquitetura da solução, evidenciando o fluxo de informações entre as camadas de coleta, armazenamento, processamento operacional e visualização de dados.
 
-![Diagrama de Arquitetura da Solução](images/arquitetura_bicho_loko.png)
+![Diagrama de Arquitetura da Solução](./img/arquitetura_bicho_loko.png)
 
 Fonte: Elaborada pelos autores (2025).
 
