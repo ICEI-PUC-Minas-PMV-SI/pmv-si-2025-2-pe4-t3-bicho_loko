@@ -8,13 +8,13 @@ As principais atividades metodológicas incluem:
 
 - **Reuniões de levantamento de requisitos**: encontros online com a ONG para identificar necessidades e validar as informações a serem contempladas no sistema.
 
-- **Oficinas de capacitação interna**: nivelamento dos integrantes quanto ao uso de **AppScript**, **AppSheets** e **Google Sites**, garantindo a qualidade da entrega.
+- **Oficinas de capacitação interna**: nivelamento dos integrantes quanto ao uso de **AppScript**, **AppSheets**, **Looker Studio** e **Google Sites**, garantindo a qualidade da entrega.
 
 - **Construção da base de dados**: estruturação de um banco de dados integrado no **AppSheet**, organizado em tabelas temáticas que abrangem as informações sobre **animais, adotantes, voluntários, castrações, parceiros, doadores, adoções, campanhas, despesas e interessados em adoção**. A modelagem foi planejada para garantir integridade referencial, facilidade de atualização e integração com as demais camadas do sistema.
 
 - **Criação de formulário digital**: desenvolvimento de um **formulário personalizado** por meio do **Google AppScript**, incorporado ao portal institucional e ao aplicativo interno. Esse formulário possibilita o registro de novos adotantes e o envio de informações diretamente para o banco de dados da aplicação, assegurando a coleta estruturada e automatizada dos dados.
 
-- **Desenvolvimento do dashboard**: implementação de **painéis interativos** no **AppSheet**, que consolidam os indicadores operacionais e estratégicos definidos em conjunto com a ONG. Os dashboards oferecem visualizações dinâmicas e atualizadas em tempo real, facilitando o acompanhamento das ações e o processo de tomada de decisão.
+- **Desenvolvimento do dashboard**: implementação de painéis interativos no **Looker Studio**, que consolidam os indicadores operacionais e estratégicos definidos em conjunto com a ONG. Os dashboards oferecem visualizações dinâmicas e são incorporados ao Google Sites, facilitando o acompanhamento das ações e o processo de tomada de decisão.
 
 - **Validação incremental**: cada entrega parcial (planilha organizada, formulário ativo, dashboard inicial) será apresentada à ONG, coletando feedbacks e ajustes.
 
@@ -22,17 +22,19 @@ Essa abordagem permite uma implementação rápida, de baixo custo e com curva d
 
 ## **ARQUITETURA**
 
-Este item descreve a arquitetura de software projetada para a Organização Não Governamental (ONG) Bicho Loko, desenvolvida exclusivamente com o uso das ferramentas Google AppSheet, Google AppScript e Google Sites. A solução foi concebida para operação em ambiente de nuvem, com baixo custo de implantação, facilidade de manutenção e aderência estrita aos requisitos funcionais e não funcionais estabelecidos pelo projeto.
+Este item descreve a arquitetura de software projetada para a Organização Não Governamental (ONG) Bicho Loko, desenvolvida exclusivamente com o uso das ferramentas Google AppSheet, Looker Studio, Google AppScript e Google Sites. A solução foi concebida para operação em ambiente de nuvem, com baixo custo de implantação, facilidade de manutenção e aderência estrita aos requisitos funcionais e não funcionais estabelecidos pelo projeto.
 
 1. **Camada de Aplicação (Frontend)**:
 
-   **Google Sites e AppSheet**
+   **Google Sites, Looker Studio e AppSheet**
 
    A camada de aplicação compreende dois componentes distintos, voltados a públicos diferentes:
 
-   - **Google Sites**: atua como o frontend público, servindo como portal institucional responsivo da ONG. Destina-se à divulgação de campanhas, histórias de adoção, informações institucionais e acesso a formulários e aplicações internas. O portal possui páginas configuráveis, com áreas públicas e áreas restritas, de acordo com a política de acesso definida.
+   - **Google Sites**: atua como o frontend público, servindo como portal institucional responsivo da ONG. Destina-se à divulgação de campanhas, histórias de adoção, informações institucionais, acesso a formulários e aplicações internas e visualização dos dashboards de BI incorporados criados a partir do Looker Studio. O portal possui páginas configuráveis, com áreas públicas e áreas restritas, de acordo com a política de acesso definida.
 
    - **AppSheet**: constitui o frontend e backend interno do sistema, utilizado exclusivamente pela equipe da ONG. Nessa plataforma são realizadas as operações internas, como cadastro, acompanhamento de animais, controle de adoções e gerenciamento de voluntários. O AppSheet oferece interface responsiva e integração direta com as tabelas de dados hospedadas em nuvem.
+  
+   - **Looker Studio**: atua como a camada de visualização analítica, transformando os dados operacionais em painéis gerenciais e estratégicos. Permite a criação de gráficos interativos, filtros dinâmicos e relatórios personalizados que são embarcados no portal institucional (Google Sites), democratizando o acesso à informação e embasando a tomada de decisão da gestão.
 
 2. **Camada de Coleta de Dados**
 
@@ -66,15 +68,15 @@ Este item descreve a arquitetura de software projetada para a Organização Não
 
      - Inserção em tempo real pelo aplicativo AppSheet em campo (por exemplo, durante resgates).
 
-   - Regras de validação e integridade implementadas no AppSheet para assegurar consistência dos registros e conformidade com os RFs.
+     - Regras de validação e integridade implementadas no AppSheet para assegurar consistência dos registros e conformidade com os RFs.
 
 5. **Camada de Business Intelligence (BI)**
 
-   **Dashboards AppSheet**
+   **Dashboards Looker Studio**
 
-   - Painéis operacionais e relatórios interativos integrados ao AppSheet para consulta e acompanhamento dos indicadores previstos nos RFs (ex.: lista de animais por status, relatórios de adotantes aprovados, resumos de campanhas);
+   - Painéis operacionais e relatórios interativos desenvolvidos no Looker Studio e incorporados ao Google Sites para consulta e acompanhamento dos indicadores previstos nos RFs.
 
-   - Visualizações e filtros configurados conforme as necessidades operacionais da ONG.
+   - Visualizações e filtros configurados conforme as necessidades operacionais da ONG, consumindo os dados estruturados pela camada de dados e oferecendo visões estratégicas sobre animais, adoções e despesas;
 
 6. **Infraestrutura em Nuvem**
 
@@ -90,11 +92,14 @@ Todas as funcionalidades implementadas corresponderão estritamente aos requisit
 
 A arquitetura foi concebida para priorizar a autonomia operacional da ONG, o baixo custo de implantação, bem como a facilidade de manutenção e evolução.
 
-![Arquitetura do projeto](./img/Arquitetura.png)
+8. **Figura da Arquitetura**
 
-**Figura 1 – Arquitetura proposta do sistema da ONG Bicho Loko**
+A Figura 1 apresenta o diagrama esquemático da arquitetura da solução, evidenciando o fluxo de informações entre as camadas de coleta, armazenamento, processamento operacional e visualização de dados.
 
-Fonte: elaborado pelos autores (2025).
+![Diagrama de Arquitetura da Solução](images/arquitetura_bicho_loko.png)
+
+Fonte: Elaborada pelos autores (2025).
+
 
 ## **ESTRUTURA PARA A REALIZAÇÃO DO PROJETO**
 
@@ -106,15 +111,45 @@ Atualmente, a ONG Bicho Loko realiza a gestão de adoções de forma manual, uti
 
 A divulgação das campanhas e dos animais disponíveis para adoção é feita exclusivamente pelas redes sociais — principalmente **Instagram** e **Facebook** —, sem a existência de um **portal institucional** que concentre informações e facilite o relacionamento com o público.
 
-Com o objetivo de **modernizar e automatizar os processos**, foi proposta uma arquitetura tecnológica integrada baseada em **Google Sites, AppScript e AppSheet**. O **Google Sites** funcionará como o **portal institucional** da ONG, centralizando a divulgação de campanhas e o acesso a formulários digitais personalizados. O **AppScript** será utilizado para automatizar os formulários e integrar diretamente os dados ao banco em nuvem. Já o **AppSheet** atuará como **plataforma central de gestão**, permitindo o registro, acompanhamento e análise das informações relativas a adoções, doações, voluntários, parceiros e campanhas em um único ambiente.
+Com o objetivo de **modernizar e automatizar os processos**, foi proposta uma arquitetura tecnológica integrada baseada em **Google Sites, AppScript, Looker Studio e AppSheet**. O **Google Sites** funcionará como o **portal institucional** da ONG, centralizando a divulgação de campanhas e o acesso a formulários digitais personalizados. O **AppScript** será utilizado para automatizar os formulários e integrar diretamente os dados ao banco em nuvem. Já o **AppSheet** atuará como **plataforma central de gestão**, permitindo o registro, acompanhamento e análise das informações relativas a adoções, doações, voluntários, parceiros e campanhas em um único ambiente.
 
-Um dos principais benefícios do **AppSheet** é a **geração de dashboards interativos**, que fornecem uma visão integrada das atividades da ONG e auxiliam na **tomada de decisão estratégica**. Serão desenvolvidos três painéis principais:
+Para a inteligência de dados, a solução utiliza o **Looker Studio**, que permite a geração de dashboards interativos integrados ao Google Sites. Esses painéis fornecerão uma visão consolidada das atividades da ONG, divididos em três grupos principais de indicadores:
 
-- **Início (Visão Geral)**: cards de contagem e listas rápidas sobre **animais, parceiros e voluntários**;
+**1. Indicadores relacionados aos animais:**
 
-- **Financeiro**: consolidação dos **custos por tipo ou parceiro**, além da análise de **gastos e doações dos últimos 12 meses**;
+- Visão geral dos animais: quantidade total geral, total de cães, total de gatos, total de fêmeas e total de machos;
 
-- **BI Estratégico**: indicadores de **eficiência de adoção por canal** (Instagram, feiras, indicações), **mapa de custos por etapa** (castração, vacinas, tratamentos, transporte), **taxa de devolução por perfil de adotante** (tipo de moradia, região e faixa etária) e **custo médio por animal até a adoção**.
+- Perfil dos animais por espécie: quantidade de fêmeas e machos entre cães e gatos;
+
+- Perfil dos animais por porte: quantidade de fêmeas e machos dentre os portes mini, pequeno, médio e grande;
+
+- Perfil dos animais por status: quantidade de fêmeas e machos dentre os status óbito, em tratamento, disponível e adotado.
+  
+**2. Indicadores relacionados às adoções:**
+
+- Visão geral das adoções: total de adoções no último ano e no último mês, total de adoções do mês atual;
+
+- Visão geral das devoluções: total de devoluções do último ano, do último mês e do mês atual;
+
+- Quantidade de adoções por espécie: segmentação entre cães e gatos;
+
+- Porcentagem de adoções por sexo: segmentação entre fêmeas e machos;
+
+- Quantidade de adoções por porte: segmentação entre portes mini, pequeno, médio e grande;
+
+- Taxas e perfis: taxa anual de adoções, taxa anual de devoluções, perfil etário dos adotantes e perfil etário dos adotantes que devolveram animais;
+
+- Origem: quantidade de adoções por canal de origem (feiras, Instagram, indicação, site).
+
+**3. Indicadores relacionados às despesas:**
+
+- Custos gerais: total gasto em determinado período e média de despesas por mês;
+
+- Análise de eficiência: custo médio por animal e custo médio por espécie;
+
+- Extremos: despesa de maior custo e despesa de menor custo;
+
+- Detalhamento: percentual de distribuição por tipo de despesa e valor em real de custos por tipo de despesa.
 
 Esses painéis permitirão à ONG **monitorar suas atividades em tempo real**, aprimorar o planejamento e direcionar recursos de forma mais eficiente, ampliando sua capacidade de gestão e impacto social.
 
@@ -130,11 +165,13 @@ Esses painéis permitirão à ONG **monitorar suas atividades em tempo real**, a
 
   - **AppScript**: coleta e automação de dados de adotantes e voluntários;
 
-  - **AppSheet**: organização centralizada das informações em tabelas temáticas (Animais, Adotantes, Interessados, Voluntários, Campanhas e Parcerias) e desenvolvimento dos dashboards de apoio à decisão;
+  - **AppSheet**: organização centralizada das informações em tabelas temáticas (Animais, Adotantes, Interessados, Voluntários, Campanhas e Parcerias) e gestão operacional;
+ 
+  - **Looker Studio**: criação e visualização de dashboards de indicadores e relatórios de BI;
 
   - **Google Workspace**: armazenamento e compartilhamento dos arquivos do projeto;
 
-  - **Google Sites**: criação do portal institucional responsivo da ONG.
+  - **Google Sites**: criação do portal institucional responsivo da ONG e hospedagem dos dashboards incorporados.
 
 ### **Recursos humanos**
 
